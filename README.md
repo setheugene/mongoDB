@@ -1,1 +1,1 @@
-# mongoDB
+A web scraper that utilizes MONGODB, Express, Cheerio, and Axios to scrape headlines from BBC News. You can click on any link and open the article as well as leave notes on the article that will be saved in the database. Deployed using Heroku.
